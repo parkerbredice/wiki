@@ -62,10 +62,10 @@ Itinero is a flexible open-source routing engine for a variety of transportation
 ## Getting Started
 To start using Itinero, follow these steps:
 1. Install following Itinero packages to .NET project:
-  •	Itinero: The Itinero routing core, this is usually the only package you need to install.
-  •	Itinero.Geo: This package ensures compatibility with NTS.
-  •	Itinero.IO.Osm: This package contains code to load OSM data.
-  •	Itinero.IO.Shape: This package contains code to load data from shapefiles.
+  - Itinero: The Itinero routing core, this is usually the only package you need to install.
+  - Itinero.Geo: This package ensures compatibility with NTS.
+  -	Itinero.IO.Osm: This package contains code to load OSM data.
+  -	Itinero.IO.Shape: This package contains code to load data from shapefiles.
 2. Specify OSM file as needed
 3. Run project through determined routing coordinates
 
@@ -77,8 +77,9 @@ https://www.itinero.tech/
 Itinero is open-source and commercially supported, developed by the Itinero BVBA team.
 Itinero was built using OpenStreetMap
 
+
 # Future Work
-•	Integrate temporal layer to find effective rates of encounter.
-•	Generate daily routines to represent more realistic behavior.
-•	Normalization of results to allow comparisons across sites with different total populations.
+- Integrate temporal layer to find effective rates of encounter.
+-	Generate daily routines to represent more realistic behavior.
+-	Normalization of results to allow comparisons across sites with different total populations.
 
